@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Shrikhand;
+    src: url("../fonts/Shrikhand-Regular.ttf") format('truetype');
+    font-family: Forgotten Futurist Rg;
+    src: url("../fonts/forgotten-futurist-rg.ttf") format('truetype');
+}
+body{
+    font-family:  Forgotten Futurist Rg;
+}
